@@ -1,8 +1,8 @@
-unit Redefined.Pascal.NetworkAccess;
+unit Redefined.Pascal.Win32.NetworkAccess;
 
 { ***************************************************************************
 
-  Copyright (c) 2015-2017 Enrique Fuentes
+  Copyright (c) 2015-2018 Enrique Fuentes
 
   Unit         : Redefined NetworkAccess
   Description  : Windows Networking Info and Scrapping methods
